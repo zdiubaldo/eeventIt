@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71901.aar" >
+        <source path="/Users/zulu/dev/projects/android/eeventIt/eeventIt/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/zulu/dev/projects/android/eeventIt/eeventIt/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/zulu/dev/projects/android/eeventIt/eeventIt/src/debug/assets" />
+    </dataSet>
+
+</merger>
